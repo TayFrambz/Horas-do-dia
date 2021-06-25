@@ -1,0 +1,34 @@
+body {
+    background: pink;
+    font: normal 15pt Arial;
+
+}
+header {
+    color: goldenrod;
+    text-align: center;
+    font: normal 20pt Hervetica;
+
+}
+
+img {
+    border-radius: 50%;
+}
+
+section {
+    background: linear-gradient(rgba(255, 255, 255, 0.865),rgba(255, 255, 255, 0.133));
+    border-radius: 180px;
+    padding: 20px;
+    width: 265px;
+    margin: auto;
+    box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.507);
+
+}
+div {
+    text-align: center;
+    padding: 8px;
+}
+footer {
+    color:rgb(243, 255, 251);
+    text-align: center;
+    font-style: italic;
+}
